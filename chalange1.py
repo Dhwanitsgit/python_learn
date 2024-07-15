@@ -1,3 +1,4 @@
+"""
 odd = []
 even_till5 = []
 even_till20 = []
@@ -51,3 +52,6 @@ for key, value in generated_pairs:
         d[key] = [value]
 
 print("Dictionary with generated pairs:", d)
+
+"""
+print("$",round((23456489.72948525479) * 2))
